@@ -1,0 +1,13 @@
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.login.resources
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Utku\source\repos\Odev\bin\Debug\Odev.exe.config
+C:\Users\Utku\source\repos\Odev\bin\Debug\Odev.exe
+C:\Users\Utku\source\repos\Odev\bin\Debug\Odev.pdb
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.exe
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.pdb
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.forgetPassword.resources
+C:\Users\Utku\source\repos\Odev\obj\Debug\Odev.register.resources
