@@ -71,8 +71,13 @@ namespace Odev
             SqlCommand cmd = new SqlCommand("Select * from Users", connection);
             SqlDataReader reader = cmd.ExecuteReader();
 
+            Random rand = new Random();
+            int newPassword = rand.Next(100000,999999);
 
-            sendMail("Come back to us!", "Your password: ", textBox2.Text);
+            String mailBody = "Your new password: " + newPassword;
+
+            sendMail("Come back to us!", mailBody, textBox2.Text);
+            MessageBox.Show("Check your mail box!", "Sending Successful!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void forgetPassword_Load(object sender, EventArgs e)
